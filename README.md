@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-366%20hrs%2057%20mins-blue)
+[![wakatime](https://wakatime.com/badge/user/67e757df-46ae-47ae-9d43-5fe0cdcb19e1.svg)](https://wakatime.com/@67e757df-46ae-47ae-9d43-5fe0cdcb19e1)
 
 **I'm a Night 🦉** 
 
