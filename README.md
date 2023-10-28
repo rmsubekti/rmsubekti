@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C862%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C912%20hrs%2025%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -34,12 +34,16 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   23 hrs 5 mins       ████████████░░░░░░░░░░░░░   46.26 % 
+Go                       21 hrs 38 mins      ███████████░░░░░░░░░░░░░░   43.36 % 
+JSON                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+JavaScript               1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+PHP                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    49 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/10/2023 00:30:31 UTC
+ Last Updated on 28/10/2023 00:30:41 UTC
 <!--END_SECTION:waka-->
